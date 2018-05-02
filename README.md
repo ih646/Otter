@@ -15,7 +15,6 @@ password-protected website. Know exactly how much time you spend on
 your desktop on the Internet. Use this information however you like,
 it’s yours to keep!
 
-Check out [Otter](https://otter-.herokuapp.com) now!
 
 ### Short History of Our Beginnings
 Internet companies often maintain a detailed understanding of our minds.
@@ -31,19 +30,6 @@ choices about how we spent our time.
 ### Contributing Information
 [Refer to Contributing.md](https://github.com/nyu-software-engineering/online-time-tracker/blob/master/CONTRIBUTING.md)
 
-### Instructions on Building and Testing the Project
-
-To Branch:
-
-0. git pull (if there are changes, it's a good idea to have them) 
-1. git branch -b newname 
-2. (do stuff and edit stuff)
-3. git checkout master (this switches you over to the master branch)
-4. git merge newname (this merges newname branch with master)
-5. git pull
-6. git push origin master
-
-To Deploy Changes on Heroku:
-1. (in main directory) git subtree push --prefix myapp heroku master
-
-Stay updated for more info!
+### Instructions:
+For extension: Go to extensions on chrome. Turn on developer mode, go to load unpacked, navigate to extension folder in myapp then click ok.  
+For website: Go to folder with app.js in terminal, npm install then node app.js. Website can be seen on your localhost:3000.
