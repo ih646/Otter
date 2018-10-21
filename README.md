@@ -32,4 +32,3 @@ choices about how we spent our time.
 
 ### Instructions:
 For extension: Go to extensions on chrome. Turn on developer mode, go to load unpacked, navigate to extension folder in myapp then click ok.  
-For website: Go to folder with app.js in terminal, npm install then node app.js. Website can be seen on your localhost:3000.
